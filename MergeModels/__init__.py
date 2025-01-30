@@ -1,0 +1,1 @@
+from ._merger import Merger as LMMerger
