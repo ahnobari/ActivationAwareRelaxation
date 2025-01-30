@@ -18,5 +18,5 @@ python performAWR.py --merged_model ./TIES_InstructMathCode --pretrained_model_n
 To run benchamraks on a given model you can run (example of running the AWR from above):
 
 ```bash
-python evaluate_model.py --model model
+python evaluate_model.py --model ./TIES_AWR_InstructMathCode
 ```
